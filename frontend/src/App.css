@@ -1,0 +1,42 @@
+/* App.css */
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f9;
+    min-height: 100vh;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .header-title {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .dashboard {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dashboard-intro {
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-title {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .dashboard-description {
+    color: #666;
+    font-size: 1rem;
+  }
